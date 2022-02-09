@@ -1,0 +1,27 @@
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2{
+	color: red;
+	text-align: right;
+}
+
+.tulisan{
+	font-style: italic;
+	font-size: 50px;
+	background-color: darkred;
+	text-decoration: underline;
+}
+
+#test{
+	font-size: 30px;
+	font-weight: bold;
+	background-color: green;
+	color: red;
+}

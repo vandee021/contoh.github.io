@@ -1,0 +1,15 @@
+body {
+  background-color: darkcyan;
+}
+
+.data_diri{
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.foto{
+	 width: 20%;
+	 height: 20%;
+}
